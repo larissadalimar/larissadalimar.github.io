@@ -1,0 +1,42 @@
+.name-presentation{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.l-hero__btn{  
+  align-content: center;
+  display: flexbox;
+}
+
+.btn{
+  font-weight: 300;
+  font-size: 1.125rem;
+}
+
+.about-my-location{
+    padding-left: 10px;
+}
+
+.about_text{
+    padding-left: 50px;
+    padding-right: 300px;
+
+}
+section{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+h3{
+    padding-left: 20px;
+}
+
+.experience-informations{
+    padding-left: 40px;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+}
